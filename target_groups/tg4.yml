@@ -1,0 +1,6 @@
+type: target-group
+name: tg4
+conditions:
+  - operator: ne
+    property: rox.language
+    operand: '3'

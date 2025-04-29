@@ -1,0 +1,6 @@
+type: target-group
+name: tg1
+description: ffff
+conditions:
+  - operator: is-undefined
+    property: rox.language
