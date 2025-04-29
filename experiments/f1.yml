@@ -5,7 +5,6 @@ conditions:
   - group:
       name:
         - tg1
-        - tg3
         - tg4
     value: true
 value: false
